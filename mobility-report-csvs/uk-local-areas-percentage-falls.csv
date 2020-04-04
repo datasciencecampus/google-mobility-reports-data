@@ -1,0 +1,151 @@
+﻿GPL_CD,GPL_NM,GSS_CD,GSS_NM,GSS_ENTITY_CD,GSS_ENTITY_NM,REGION_CD,REGION_NM,RETAIL_AND_RECREATION,GROCERY_AND_PHARMACY,PARKS,TRANSIT_STATIONS,WORKPLACE,RESIDENTIAL
+GGL001,Aberdeen City,S12000033,Aberdeen City,S12,Council Area,S92000003,Scotland,-86,-41,-46,-73,-58,30
+GGL002,Aberdeenshire,S12000034,Aberdeenshire,S12,Council Area,S92000003,Scotland,-80,-46,-45,-58,-52,27
+GGL003,Angus council,S12000041,Angus,S12,Council Area,S92000003,Scotland,-80,-44,-28,-51,-48,20
+GGL004,Antrim And Newtownabbey,N09000001,Antrim and Newtownabbey,N09,Local Government District,N92000002,Northern Ireland,-81,-46,-61,-89,-52,29
+GGL005,Ards And North Down,N09000011,Ards and North Down,N09,Local Government District,N92000002,Northern Ireland,-78,-39,-57,-57,-56,28
+GGL006,Argyll and Bute Council,S12000035,Argyll and Bute,S12,Council Area,S92000003,Scotland,-88,-45,-34,-57,-52,8
+GGL007,Armagh City and Banbridge And Craigavon,N09000002,"Armagh City, Banbridge and Craigavon",N09,Local Government District,N92000002,Northern Ireland,-82,-45,-66,-65,-47,27
+GGL008,Bath and North East Somerset,E06000022,Bath and North East Somerset,E06,Unitary Authority,E12000009,South West,-91,-48,-54,-75,-66,30
+GGL009,Bedford,E06000055,Bedford,E06,Unitary Authority,E12000006,East of England,-86,-47,-51,-72,-49,28
+GGL010,Belfast,N09000003,Belfast,N09,Local Government District,N92000002,Northern Ireland,-85,-42,-47,-76,-59,17
+GGL011,Blackburn with Darwen,E06000008,Blackburn with Darwen,E06,Unitary Authority,E12000002,North West,-85,-42,0,-71,-50,25
+GGL012,Blackpool,E06000009,Blackpool,E06,Unitary Authority,E12000002,North West,-88,-43,-64,-65,-54,22
+GGL013,Blaenau Gwent,W06000019,Blaenau Gwent,W06,Unitary Authority,W92000004,Wales,-75,-46,0,-57,-46,12
+GGL014,Borough of Halton,E06000006,Halton,E06,Unitary Authority,E12000002,North West,-78,-43,-46,-60,-48,25
+GGL015,Bracknell Forest,E06000036,Bracknell Forest,E06,Unitary Authority,E12000008,South East,-83,-41,-56,-69,-58,31
+GGL016,Bridgend County Borough,W06000013,Bridgend,W06,Unitary Authority,W92000004,Wales,-85,-43,-48,-59,-50,25
+GGL017,Brighton and Hove,E06000043,Brighton and Hove,E06,Unitary Authority,E12000008,South East,-89,-48,-59,-77,-64,30
+GGL018,Buckinghamshire,E10000002,Buckinghamshire,E10,County,E12000008,South East,-85,-45,-43,-74,-57,16
+GGL019,Caerphilly County Borough,W06000018,Caerphilly,W06,Unitary Authority,W92000004,Wales,-78,-41,-52,-54,-47,25
+GGL020,Cambridgeshire,E10000003,Cambridgeshire,E10,County,E12000006,East of England,-87,-48,-51,-79,-54,16
+GGL021,Cardiff,W06000015,Cardiff,W06,Unitary Authority,W92000004,Wales,-86,-45,-48,-79,-59,17
+GGL022,Carmarthenshire,W06000010,Carmarthenshire,W06,Unitary Authority,W92000004,Wales,-81,-46,-57,-60,-49,24
+GGL023,Causeway Coast and Glens,N09000004,Causeway Coast and Glens,N09,Local Government District,N92000002,Northern Ireland,-87,-41,-66,-64,-55,26
+GGL024,Central Bedfordshire,E06000056,Central Bedfordshire,E06,Unitary Authority,E12000006,East of England,-82,-45,-41,-74,-54,20
+GGL025,Ceredigion,W06000008,Ceredigion,W06,Unitary Authority,W92000004,Wales,-84,-54,-60,-69,-57,6
+GGL026,Cheshire East,E06000049,Cheshire East,E06,Unitary Authority,E12000002,North West,-84,-47,-63,-75,-53,15
+GGL027,Cheshire West and Chester,E06000050,Cheshire West and Chester,E06,Unitary Authority,E12000002,North West,-88,-47,-58,-77,-55,15
+GGL028,City of Bristol,E06000023,"Bristol, City of",E06,Unitary Authority,E12000009,South West,-87,-47,-25,-81,-57,18
+GGL029,Clackmannanshire,S12000005,Clackmannanshire,S12,Council Area,S92000003,Scotland,-89,-39,0,-53,-49,6
+GGL030,Conwy Principal Area,W06000003,Conwy,W06,Unitary Authority,W92000004,Wales,-86,-48,-70,-63,-58,22
+GGL031,Cornwall,E06000052,Cornwall,E06,Unitary Authority,E12000009,South West,-85,-53,-54,-66,-56,14
+GGL032,County Durham,E06000047,County Durham,E06,Unitary Authority,E12000001,North East,-83,-42,-56,-68,-55,14
+GGL033,Cumbria,E10000006,Cumbria,E10,County,E12000002,North West,-84,-50,-54,-73,-58,15
+GGL034,Darlington,E06000005,Darlington,E06,Unitary Authority,E12000001,North East,-86,-47,-57,-75,-51,26
+GGL035,Denbighshire,W06000004,Denbighshire,W06,Unitary Authority,W92000004,Wales,-84,-43,-59,-70,-52,14
+GGL036,Derby,E06000015,Derby,E06,Unitary Authority,E12000004,East Midlands,-85,-46,-55,-81,-55,19
+GGL037,Derbyshire,E10000007,Derbyshire,E10,County,E12000004,East Midlands,-86,-43,-55,-66,-55,15
+GGL038,Derry And Strabane,N09000005,Derry City and Strabane,N09,Local Government District,N92000002,Northern Ireland,-80,-39,-63,-60,-54,25
+GGL039,Devon,E10000008,Devon,E10,County,E12000009,South West,-87,-51,-54,-73,-54,15
+GGL040,Dorset,J19000003,Dorset Ceremonial County,J19,Ceremonial County,E12000009,South West,-87,-47,-57,-70,-57,15
+GGL041,Dumfries and Galloway,S12000006,Dumfries and Galloway,S12,Council Area,S92000003,Scotland,-80,-42,-48,-75,-49,22
+GGL042,Dundee City Council,S12000042,Dundee City,S12,Council Area,S92000003,Scotland,-83,-52,-10,-71,-56,26
+GGL043,East Ayrshire Council,S12000008,East Ayrshire,S12,Council Area,S92000003,Scotland,-83,-39,0,-55,-51,26
+GGL044,East Dunbartonshire Council,S12000045,East Dunbartonshire,S12,Council Area,S92000003,Scotland,-75,-35,0,-54,-56,19
+GGL045,East Lothian Council,S12000010,East Lothian,S12,Council Area,S92000003,Scotland,-81,-37,-34,-57,-56,17
+GGL046,East Renfrewshire Council,S12000011,East Renfrewshire,S12,Council Area,S92000003,Scotland,-63,-29,-54,-51,-56,19
+GGL047,East Riding of Yorkshire,E06000011,East Riding of Yorkshire,E06,Unitary Authority,E12000003,Yorkshire and the Humber,-85,-45,-61,-51,-52,14
+GGL048,East Sussex,E10000011,East Sussex,E10,County,E12000008,South East,-87,-46,-60,-68,-57,14
+GGL049,Edinburgh,S12000036,City of Edinburgh,S12,Council Area,S92000003,Scotland,-86,-44,-42,-83,-67,18
+GGL050,Essex,E10000012,Essex,E10,County,E12000006,East of England,-84,-49,-58,-85,-56,16
+GGL051,Falkirk,S12000014,Falkirk,S12,Council Area,S92000003,Scotland,-78,-38,-26,-56,-47,27
+GGL052,Fermanagh And Omagh,N09000006,Fermanagh and Omagh,N09,Local Government District,N92000002,Northern Ireland,-86,-47,-55,-54,-52,27
+GGL053,Fife,S12000047,Fife,S12,Council Area,S92000003,Scotland,-79,-38,-32,-56,-51,14
+GGL054,Flintshire,W06000005,Flintshire,W06,Unitary Authority,W92000004,Wales,-80,-44,-48,-60,-54,26
+GGL055,Glasgow City,S12000049,Glasgow City,S12,Council Area,S92000003,Scotland,-84,-44,-37,-81,-60,16
+GGL056,Gloucestershire,E10000013,Gloucestershire,E10,Country,E12000009,South West,-86,-48,-49,-73,-55,15
+GGL057,Greater London,E12000007,London,E12,Region,E12000007,London,-87,-48,-59,-80,-62,19
+GGL058,Greater Manchester,E11000001,Greater Manchester,E11,Metropolitan County,E12000002,North West,-84,-46,-44,-80,-54,16
+GGL059,Gwynedd,W06000002,Gwynedd,W06,Local Authority,W92000004,Wales,-87,-55,-62,-65,-56,18
+GGL060,Hampshire,E10000014,Hampshire,E10,County,E12000008,South East,-85,-45,-48,-74,-54,15
+GGL061,Hartlepool,E06000001,Hartlepool,E06,Unitary Authority,E12000001,North East,-86,-44,-64,-70,-51,19
+GGL062,Herefordshire,E06000019,"Herefordshire, County of",E06,Unitary Authority,E12000005,West Midlands,-86,-50,-42,-64,-46,24
+GGL063,Hertfordshire,E10000015,Hertfordshire,E10,County,E12000006,East of England,-85,-47,-46,-73,-56,16
+GGL064,Highland Council,S12000017,Highland,S12,Council Area,S92000003,Scotland,-83,-47,-48,-70,-53,24
+GGL065,Inverclyde,S12000018,Inverclyde,S12,Council Area,S92000003,Scotland,-83,-37,0,-58,-52,15
+GGL066,Isle of Anglesey,W06000001,Isle of Anglesey,W06,Unitary Authority,W92000004,Wales,-84,-48,-65,-63,-46,7
+GGL067,Isle of Wight,E06000046,Isle of Wight,E06,Unitary Authority,E12000008,South East,-88,-47,-57,-76,-54,22
+GGL068,Kent,E10000016,Kent,E10,County,E12000008,South East,-86,-49,-62,-68,-53,15
+GGL069,Kingston upon Hull,E06000010,"Kingston upon Hull, City of",E06,Unitary Authority,E12000003,Yorkshire and the Humber,-82,-45,-49,-71,-51,14
+GGL070,Lancashire,E10000017,Lancashire,E10,County,E12000002,North West,-84,-44,-39,-71,-52,14
+GGL071,Leicester,E06000016,Leicester,E06,Unitary Authority,E12000004,East Midlands,-84,-47,-45,-80,-51,15
+GGL072,Leicestershire,E10000018,Leicestershire,E10,County,E12000004,East Midlands,-83,-45,-54,-72,-55,15
+GGL073,Lincolnshire,E10000019,Lincolnshire,E10,County,E12000004,East Midlands,-84,-45,-63,-67,-47,13
+GGL074,Lisburn and Castlereagh,N09000007,Lisburn and Castlereagh,N09,Local Government District,N92000002,Northern Ireland,-87,-45,-79,-61,-56,30
+GGL075,Luton,E06000032,Luton,E06,Unitary Authority,E12000006,East of England,-79,-39,-41,-90,-49,19
+GGL076,Medway,E06000035,Medway,E06,Unitary Authority,E12000008,South East,-85,-40,-67,-71,-51,15
+GGL077,Merseyside,E11000002,Merseyside,E11,Metropolitan County,E12000002,North West,-83,-42,-53,-74,-54,15
+GGL078,Merthyr Tydfil County Borough,W06000024,Merthyr Tydfil,W06,Unitary Authority,W92000004,Wales,-89,-50,0,-54,-52,8
+GGL079,Mid And East Antrim,N09000008,Mid and East Antrim,N09,Local Government District,N92000002,Northern Ireland,-81,-37,-52,-56,-56,27
+GGL080,Mid Ulster,N09000009,Mid Ulster,N09,Local Government District,N92000002,Northern Ireland,-81,-43,0,-51,-42,28
+GGL081,Middlesbrough,E06000002,Middlesbrough,E06,Unitary Authority,E12000001,North East,-84,-43,-63,-73,-51,24
+GGL082,Midlothian,S12000019,Midlothian,S12,Council Area,S92000003,Scotland,-90,-43,-20,-50,-53,25
+GGL083,Milton Keynes,E06000042,Milton Keynes,E06,Unitary Authority,E12000008,South East,-85,-49,-53,-79,-55,19
+GGL084,Monmouthshire,W06000021,Monmouthshire,W06,Unitary Authority,W92000004,Wales,-85,-56,-61,-58,-47,16
+GGL085,Moray,S12000020,Moray,S12,Council Area,S92000003,Scotland,-88,-45,-42,-63,-54,12
+GGL086,Na h-Eileanan an Iar,S12000013,Na h-Eileanan Siar,S12,Council Area,S92000003,Scotland,-77,-31,0,-54,-51,0
+GGL087,Neath Port Talbot Principle Area,W06000012,Neath Port Talbot,W06,Unitary Authority,W92000004,Wales,-74,-38,-46,-60,-46,23
+GGL088,Newport,W06000022,Newport,W06,Unitary Authority,W92000004,Wales,-83,-47,-49,-66,-52,26
+GGL089,Newry and Mourne And Down,N09000010,"Newry, Mourne and Down",N09,Local Government District,N92000002,Northern Ireland,-87,-45,-65,-55,-52,29
+GGL090,Norfolk,E10000020,Norfolk,E10,County,E12000006,East of England,-87,-52,-69,-68,-53,14
+GGL091,North Ayrshire Council,S12000021,North Ayrshire,S12,Council Area,S92000003,Scotland,-79,-37,-12,-59,-51,25
+GGL092,North East Lincolnshire,E06000012,North East Lincolnshire,E06,Unitary Authority,E12000003,Yorkshire and the Humber,-85,-46,-72,-68,-46,22
+GGL093,North Lanarkshire,S12000050,North Lanarkshire,S12,Council Area,S92000003,Scotland,-78,-37,0,-56,-50,13
+GGL094,North Lincolnshire,E06000013,North Lincolnshire,E06,Unitary Authority,E12000003,Yorkshire and the Humber,-79,-41,-56,-58,-46,23
+GGL095,North Somerset,E06000024,North Somerset,E06,Unitary Authority,E12000009,South West,-84,-50,-52,-88,-54,27
+GGL096,North Yorkshire,E10000023,North Yorkshire,E10,County,E12000003,Yorkshire and the Humber,-88,-48,-65,-74,-55,15
+GGL097,Northamptonshire,E10000021,Northamptonshire,E10,County,E12000004,East Midlands,-84,-42,-59,-71,-47,14
+GGL098,Northumberland,E06000057,Northumberland,E06,Unitary Authority,E12000001,North East,-84,-42,-66,-61,-54,14
+GGL099,Nottinghamshire,J19000002,Nottinghamshire Ceremonial County,J19,Ceremonial County,E12000004,East Midlands,-90,-45,-58,-80,-56,15
+GGL100,Orkney,S12000023,Orkney Islands,S12,Council Area,S92000003,Scotland,-85,-40,0,0,-61,0
+GGL101,Oxfordshire,E10000025,Oxfordshire,E10,County,E12000008,South East,-87,-45,-48,-79,-58,17
+GGL102,Pembrokeshire,W06000009,Pembrokeshire,W06,Unitary Authority,W92000004,Wales,-87,-49,-62,-61,-47,18
+GGL103,Perth and Kinross,S12000048,Perth and Kinross,S12,Council Area,S92000003,Scotland,-86,-46,-39,-65,-54,27
+GGL104,Peterborough,E06000031,Peterborough,E06,Unitary Authority,E12000006,East of England,-80,-45,-36,-77,-43,17
+GGL105,Plymouth,E06000026,Plymouth,E06,Unitary Authority,E12000009,South West,-87,-50,-43,-70,-54,18
+GGL106,Portsmouth,E06000044,Portsmouth,E06,Unitary Authority,E12000008,South East,-88,-43,-46,-71,-54,19
+GGL107,Powys,W06000023,Powys,W06,Unitary Authority,W92000004,Wales,-88,-50,-56,-63,-51,23
+GGL108,Reading,E06000038,Reading,E06,Unitary Authority,E12000008,South East,-89,-50,-41,-84,-55,32
+GGL109,Redcar and Cleveland,E06000003,Redcar and Cleveland,E06,Unitary Authority,E12000001,North East,-88,-44,-63,-62,-50,23
+GGL110,Renfrewshire,S12000038,Renfrewshire,S12,Council Area,S92000003,Scotland,-86,-39,14,-84,-58,29
+GGL111,Rhondda Cynon Taff,W06000016,Rhondda Cynon Taf,W06,Unitary Authority,W92000004,Wales,-80,-41,-47,-52,-50,19
+GGL112,Rutland,E06000017,Rutland,E06,Unitary Authority,E12000004,East Midlands,-100,-37,-70,0,-57,0
+GGL113,Scottish Borders,S12000026,Scottish Borders,S12,Council Area,S92000003,Scotland,-88,-46,-39,-44,-51,20
+GGL114,Shetland Islands,S12000027,Shetland Islands,S12,Council Area,S92000003,Scotland,-85,-49,0,-54,-60,0
+GGL115,Shropshire,J19000001,Shropshire Ceremonial County,J19,Ceremonial County,E12000005,West Midlands,-85,-49,-56,-70,-50,14
+GGL116,Slough,E06000039,Slough,E06,Unitary Authority,E12000008,South East,-80,-45,-45,-78,-54,29
+GGL117,Somerset,E10000027,Somerset,E10,County,E12000009,South West,-86,-48,-56,-73,-49,14
+GGL118,South Ayrshire Council,S12000028,South Ayrshire,S12,Council Area,S92000003,Scotland,-88,-42,-35,-62,-56,20
+GGL119,South Gloucestershire,E06000025,South Gloucestershire,E06,Unitary Authority,E12000009,South West,-81,-45,-30,-64,-52,20
+GGL120,South Lanarkshire,S12000029,South Lanarkshire,S12,Council Area,S92000003,Scotland,-78,-38,-6,-57,-54,14
+GGL121,South Yorkshire,E11000003,South Yorkshire,E11,Metropolitan County,E12000003,Yorkshire and the Humber,-86,-43,-47,-71,-53,15
+GGL122,Southampton,E06000045,Southampton,E06,Unitary Authority,E12000008,South East,-87,-41,-57,-71,-54,19
+GGL123,Southend-on-Sea,E06000033,Southend-on-Sea,E06,Unitary Authority,E12000006,East of England,-89,-39,-63,-79,-57,28
+GGL124,Staffordshire,E10000028,Staffordshire,E10,County,E12000005,West Midlands,-85,-44,-54,-73,-54,14
+GGL125,Stirling,S12000030,Stirling,S12,Council Area,S92000003,Scotland,-85,-49,-49,-76,-62,11
+GGL126,Stockton-on-Tees,E06000004,Stockton-on-Tees,E06,Unitary Authority,E12000001,North East,-84,-47,-60,-69,-52,25
+GGL127,Stoke-on-Trent,E06000021,Stoke-on-Trent,E06,Unitary Authority,E12000005,West Midlands,-84,-44,-41,-70,-49,14
+GGL128,Suffolk,E10000029,Suffolk,E10,County,E12000006,East of England,-87,-51,-67,-69,-54,15
+GGL129,Surrey,E10000030,Surrey,E10,County,E12000008,South East,-85,-44,-57,-74,-59,17
+GGL130,Swansea,W06000011,Swansea,W06,Unitary Authority,W92000004,Wales,-84,-50,-51,-67,-54,19
+GGL131,Swindon,E06000030,Swindon,E06,Unitary Authority,E12000009,South West,-83,-44,-30,-69,-52,28
+GGL132,Thurrock,E06000034,Thurrock,E06,Unitary Authority,E12000006,East of England,-88,-53,-51,-59,-50,29
+GGL133,Torbay,E06000027,Torbay,E06,Unitary Authority,E12000009,South West,-86,-44,-58,-68,-55,24
+GGL134,Torfaen Principal Area,W06000020,Torfaen,W06,Unitary Authority,W92000004,Wales,-82,-37,0,-54,-53,24
+GGL135,Tyne and Wear,E11000007,Tyne and Wear,E11,Metropolitan County,E12000001,North East,-85,-47,-58,-74,-57,15
+GGL136,Vale of Glamorgan,W06000014,Vale of Glamorgan,W06,Unitary Authority,W92000004,Wales,-84,-49,-59,-70,-54,27
+GGL137,Warrington,E06000007,Warrington,E06,Unitary Authority,E12000002,North West,-86,-42,-29,-68,-52,27
+GGL138,Warwickshire,E10000031,Warwickshire,E10,County,E12000005,West Midlands,-86,-44,-56,-72,-54,15
+GGL139,West Berkshire,E06000037,West Berkshire,E06,Unitary Authority,E12000008,South East,-88,-49,-41,-82,-58,29
+GGL140,West Dunbartonshire Council,S12000039,West Dunbartonshire,S12,Council Area,S92000003,Scotland,-75,-43,0,-54,-51,23
+GGL141,West Lothian,S12000040,West Lothian,S12,Council Area,S92000003,Scotland,-74,-29,-29,-52,-50,27
+GGL142,West Midlands,E11000005,West Midlands,E11,Metropolitan County,E12000005,West Midlands,-84,-45,-45,-78,-57,15
+GGL143,West Sussex,E10000032,West Sussex,E10,County,E12000008,South East,-85,-46,-53,-85,-56,15
+GGL144,West Yorkshire,E11000006,West Yorkshire,E11,Metropolitan County,E12000003,Yorkshire and the Humber,-84,-44,-49,-74,-55,15
+GGL145,Wiltshire,E06000054,Wiltshire,E06,Unitary Authority,E12000009,South West,-84,-45,-56,-70,-54,15
+GGL146,Windsor and Maidenhead,E06000040,Windsor and Maidenhead,E06,Unitary Authority,E12000008,South East,-88,-42,-74,-79,-63,31
+GGL147,Wokingham,E06000041,Wokingham,E06,Unitary Authority,E12000008,South East,-81,-52,-26,-66,-61,32
+GGL148,Worcestershire,E10000034,Worcestershire,E10,County,E12000005,West Midlands,-86,-47,-44,-71,-55,14
+GGL149,Wrexham Principal Area,W06000006,Wrexham,W06,Unitary Authority,W92000004,Wales,-83,-43,-45,-64,-48,24
+GGL150,York,E06000014,York,E06,Unitary Authority,E12000003,Yorkshire and the Humber,-90,-50,-64,-84,-65,29
