@@ -5,12 +5,18 @@ This repository contains data extracted from [Google Community Mobility Reports]
 
 The [Data Science Campus](https://datasciencecampus.ons.gov.uk/) has extracted the data from Google’s [UK report](https://www.gstatic.com/covid19/mobility/2020-03-29_GB_Mobility_Report_en.pdf) to make it publically available to all. The insights are drawn from changes in visits and lengths of stay for different types of locations indexed against median levels, for the same day of the week, over the period 3rd Jan - 6th Feb 2020. Google uses aggregated, anonymized sets of data from users who have turned on the Location History setting (off by default). Google caution that the location accuracy and the understanding of categorized places will vary between regions and so advice against using it to compare changes between countries, or between regions with different characteristics (e.g. rural versus urban areas) - please see Google's documentation for [more](https://www.blog.google/technology/health/covid-19-community-mobility-reports) [details](https://www.gstatic.com/covid19/mobility/2020-03-29_GB_Mobility_Report_en.pdf). 
 
+<p align="center">
+    <img src="imgs/cht-uk-trends.png" alt="trend-chart">
+</p>
+
+Figure 1: UK trends chart rom [Google Community Mobility Reports](https://www.google.com/covid19/mobility/) published on the 03/April/2020. 
+
 Data and methodology cannot be QA’d directly by the Campus and is provided on an ‘as-is’ basis. 
 
 ## Mobility Report Data Extractor 
 
 <p align="center">
-    <img src="/logo.png" alt="Logo">
+    <img src="imgs/logo.png" alt="Logo">
 </p>
 
 The Data Science Campus has created a [Python tool (https://github.com/datasciencecampus/mobility-report-data-extractor)](https://github.com/datasciencecampus/mobility-report-data-extractor) for extracting the data points from the graphs for [Google Community Mobility Report PDFs](https://www.google.com/covid19/mobility/). To use this tool, the PDF documents need to be converted to Scalable Vector Graphic (SVG) format. The Campus has converted all G20 (except Russia, and China) countries, plus others. These can be downloaded from this [Google Drive link](https://drive.google.com/open?id=1n5XXYbJtf-wNWEkDPe7N8iNfjzJXwZ_d). These SVG files than then be run through the Python scripts to obtain a Comma Separated Value (CSV) file for each graph in the original report.
