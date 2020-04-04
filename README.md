@@ -1,6 +1,6 @@
 # google-mobility-reports-data
 
-Archive of data related to the Google [Community Mobility Reports](https://www.google.com/covid19/mobility/) published 03/April/2020
+Archive of data related to the Google [Community Mobility Reports](https://www.google.com/covid19/mobility/) published 03/04/2020
 
 This repository contains data extracted from [Google Community Mobility Reports](https://www.google.com/covid19/mobility/) published on the 03/04/2020, together with supporting boundaries based on the current UK administrative geography to allow mapping and linking with other sources of data. 
 
@@ -23,7 +23,7 @@ The insights are drawn from changes in visits and lengths of stay for different 
     <img src="imgs/cht-uk-trends.png" alt="trend-chart">
 </p>
 
-Figure 1: UK trends chart rom [Google Community Mobility Reports](https://www.google.com/covid19/mobility/) published on the 03/April/2020. 
+Figure 1: UK trends chart rom [Google Community Mobility Reports](https://www.google.com/covid19/mobility/) published on the 03/04/2020. 
 
 Data and methodology cannot be QA’d directly by the Campus and is provided on an ‘as-is’ basis. 
 
