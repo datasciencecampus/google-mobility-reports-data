@@ -1,7 +1,11 @@
 # google-mobility-reports-data
 Archive of data related to the Google [Community Mobility Reports](https://www.google.com/covid19/mobility/) published 03/04/2020
 
-This repository contains data extracted from [Google Community Mobility Reports](https://www.google.com/covid19/mobility/) published on the 03/04/2020, together with supporting boundaries based on the current UK administrative geography to allow mapping and linking with other sources of data. 
+This repository contains data extracted from [Google Community Mobility Reports](https://www.google.com/covid19/mobility/) published on the 03/04/2020, together with supporting boundaries based on the current UK administrative geography to allow mapping and linking with other sources of data.
+
+The [Data Science Campus](https://datasciencecampus.ons.gov.uk/) has extracted the data from Google’s [UK report](https://www.gstatic.com/covid19/mobility/2020-03-29_GB_Mobility_Report_en.pdf) to make it publically available to all. The insights are drawn from changes in visits and lengths of stay for different types of locations indexed against median levels, for the same day of the week, over the period 3rd Jan - 6th Feb 2020. Google uses aggregated, anonymized sets of data from users who have turned on the Location History setting (off by default). Google caution that the location accuracy and the understanding of categorized places will vary between regions and so advice against using it to compare changes between countries, or between regions with different characteristics (e.g. rural versus urban areas) - please see Google's documentation for [more](https://www.blog.google/technology/health/covid-19-community-mobility-reports) [details](https://www.gstatic.com/covid19/mobility/2020-03-29_GB_Mobility_Report_en.pdf). 
+
+Data and methodology cannot be QA’d directly by the Campus and is provided on an ‘as-is’ basis. 
 
 ## Boundary data
 The set of boundaries provided in the geopackage is draft, and has been created by ONS in order to promote information sharing and analysis of the effect of COVID19.
