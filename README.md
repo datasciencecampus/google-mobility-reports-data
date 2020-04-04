@@ -15,7 +15,7 @@ The latest data is available in Microsoft Office .xlsx format [here](https://git
 
 ## Background
 
-The [Data Science Campus](https://datasciencecampus.ons.gov.uk/) has extracted the data from Google’s [UK report](https://www.gstatic.com/covid19/mobility/2020-03-29_GB_Mobility_Report_en.pdf) to make it publicly available to all. We developed this [Python tool](https://github.com/datasciencecampus/mobility-report-data-extractor) to achieve this.
+The [Data Science Campus](https://datasciencecampus.ons.gov.uk/) has extracted the data from Google’s [UK report](https://www.gstatic.com/covid19/mobility/2020-03-29_GB_Mobility_Report_en.pdf), and other international reports, to make them publicly available to all. We developed this [Python tool](https://github.com/datasciencecampus/mobility-report-data-extractor) to achieve this.
 
 The insights are drawn from changes in visits and lengths of stay for different types of locations indexed against median levels, for the same day of the week, over the period 3rd January - 6th February 2020. Google uses aggregated, anonymized sets of data from users who have turned on the Location History setting (off by default). Google caution that the location accuracy and the understanding of categorized places will vary between regions and so advice against using it to compare changes between countries, or between regions with different characteristics (e.g. rural versus urban areas) - please see Google's documentation for [more](https://www.blog.google/technology/health/covid-19-community-mobility-reports) [details](https://www.gstatic.com/covid19/mobility/2020-03-29_GB_Mobility_Report_en.pdf). 
 
@@ -23,7 +23,7 @@ The insights are drawn from changes in visits and lengths of stay for different 
     <img src="imgs/cht-uk-trends.png" alt="trend-chart">
 </p>
 
-Figure 1: UK trends chart rom [Google Community Mobility Reports](https://www.google.com/covid19/mobility/) published on the 03/04/2020. 
+_**Figure 1**: UK trends chart rom [Google Community Mobility Reports](https://www.google.com/covid19/mobility/) published on the 03/04/2020._
 
 Data and methodology cannot be QA’d directly by the Campus and is provided on an ‘as-is’ basis. 
 
