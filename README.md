@@ -7,6 +7,12 @@ The [Data Science Campus](https://datasciencecampus.ons.gov.uk/) has extracted t
 
 Data and methodology cannot be QA’d directly by the Campus and is provided on an ‘as-is’ basis. 
 
+## Mobility Report Data Extractor 
+
+The Data Science Campus has created a [Python tool](https://github.com/datasciencecampus/mobility-report-data-extractor) for extracting the data points from the graphs for [Google Community Mobility Report PDFs](https://www.google.com/covid19/mobility/). To use this tool, the PDF documents need to be converted to Scalable Vector Graphic (SVG) format. The Campus has converted all G20 (except Russia, and China) countries, plus others. These can be downloaded from this [Google Drive link](https://drive.google.com/open?id=1n5XXYbJtf-wNWEkDPe7N8iNfjzJXwZ_d). These SVG files than then be run through the Python scripts to obtain a Comma Separated Value (CSV) file for each graph in the original report.
+
+This repository contains the CSV files for the UK.
+
 ## Boundary data for the UK
 The set of boundaries provided in the geopackage is draft, and has been created by ONS in order to promote information sharing and analysis of the effect of COVID19.
 
