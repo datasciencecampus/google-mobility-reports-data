@@ -11,6 +11,8 @@ The latest data is available in Microsoft Office .xlsx format [here](https://git
 - [UK and UK region trends; CSV file](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/csvs/uk-all-trends.csv)
 - [UK headline values; CSV file](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/csvs/uk-local-areas-percentage-falls.csv)
 - [International headline values; CSV file](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/csvs/uk-international-percentage-falls.csv)
+- [International country-level trends for UK, US, DE, FR, IT, ES, SE; CSV file](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/csvs/international_national_trends_UK_DE_FR__ES_IT_US_SE.csv) (more to follow)
+- [International regional trends for UK, US, DE, FR, IT, ES, SE; CSV file](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/csvs/international_local_area_trends_UK_DE_FR_ES_IT_US_SE.csv) (more to follow)
 - [UK Boundary Geography files; CSV and GPKG files](https://github.com/datasciencecampus/google-mobility-reports-data/tree/master/geography)
 
 ## Background
