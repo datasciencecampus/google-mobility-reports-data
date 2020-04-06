@@ -34,7 +34,7 @@ Data and methodology cannot be QA’d directly by the Campus and is provided on 
 ## Python tool: Mobility Report Data Extractor (mobius)
 
 <p align="center">
-    <img src="imgs/logo.png" alt="Logo">
+    <img src="imgs/logo.png" alt="Logo" height="100px">
 </p>
 
 The Data Science Campus has created a [python tool (https://github.com/datasciencecampus/mobility-report-data-extractor)](https://github.com/datasciencecampus/mobility-report-data-extractor) for extracting the data points from the graphs for [Google Community Mobility Report PDFs](https://www.google.com/covid19/mobility/). To use this tool, the PDF documents need to be converted to Scalable Vector Graphic (SVG) format. The Campus has converted all PDF documents to SVG documents for this tool. These SVG files are used in `mobius` to obtain a Comma Separated Value (CSV) file for each graph in the original report.
