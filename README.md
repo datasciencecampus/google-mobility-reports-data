@@ -42,7 +42,7 @@ The Data Science Campus has created a [python tool (https://github.com/datascien
 This repository contains the [CSV files for all G20 countries for national and regional graphs](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/csvs/).
 
 ## Boundary data for the UK
-The set of boundaries provided in the geopackage is draft, and has been created by ONS in order to promote information sharing and analysis of the effect of COVID19.
+The set of boundaries provided in the [geopackage](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/geography/Google_Places_UK_Boundaries_BGC.gpkg) is draft, and has been created by ONS in order to promote information sharing and analysis of the effect of COVID19.
 
 The boundaries have been tailored specifically to present ‘Community Mobility’ data (first published by Google on 3 April 2020) recast to administrative boundaries. 
   
