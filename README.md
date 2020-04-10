@@ -1,14 +1,20 @@
 # google-mobility-reports-data
 
-Archive of data related to the Google [Community Mobility Reports](https://www.google.com/covid19/mobility/) published 03/04/2020
+## Update
 
-This repository contains data extracted from [Google Community Mobility Reports](https://www.google.com/covid19/mobility/) published on the 03/04/2020, together with supporting boundaries based on the current UK administrative geography to allow mapping and linking with other sources of data. 
+**10/04/2020**: This repository now contains data from the most recent reports, published on the 10th April 2020.
+
+## Introduction
+
+Archive of data related to the Google [Community Mobility Reports](https://www.google.com/covid19/mobility/) published 03/04/2020 and 10/04/2020.
+
+This repository contains data extracted from [Google Community Mobility Reports](https://www.google.com/covid19/mobility/) published on the 03/04/2020 and 10/04/2020, together with supporting boundaries based on the current UK administrative geography to allow mapping and linking with other sources of data. 
 
 ## Data
 
 The latest data is available in Microsoft Office .xlsx format [here](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/google-mobility-profiles.xlsx?raw=true), which includes the entire data extracted from the UK report, as well as other international reports. Other datasets include:
 
-### NEW DATA 10/04/2020 (covers the period 23/02 - 05/04)
+### LATEST DATA 10/04/2020 (covers the period 23/02 - 05/04)
 - [International country-level trends for G20 countries (excl. China, Russia, EU) and Sweden; CSV file](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/csvs/international_national_trends_G20_20200410.csv) 
 - [International regional trends for G20 countries (excl. China, Russia, EU) and Sweden; CSV file](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/csvs/international_local_area_trends_G20_20200410.csv) 
 
@@ -24,15 +30,15 @@ Headline data for all countries is available from [Matt Kerlogue's repository](h
 
 ## Background
 
-The [Data Science Campus](https://datasciencecampus.ons.gov.uk/) has extracted the data from Google’s [UK report](https://www.gstatic.com/covid19/mobility/2020-03-29_GB_Mobility_Report_en.pdf), and other international reports, to make them publicly available to all. We developed this [Python tool](https://github.com/datasciencecampus/mobility-report-data-extractor) to achieve this.
+The [Data Science Campus](https://datasciencecampus.ons.gov.uk/) has extracted the data from Google’s [UK report](https://www.google.com/covid19/mobility/), and other international reports, to make them publicly available to all. We developed this [Python tool (mobius)](https://github.com/datasciencecampus/mobility-report-data-extractor) to achieve this.
 
-The insights are drawn from changes in visits and lengths of stay for different types of locations indexed against median levels, for the same day of the week, over the period 3rd January - 6th February 2020. Google uses aggregated, anonymized sets of data from users who have turned on the Location History setting (off by default). Google caution that the location accuracy and the understanding of categorized places will vary between regions and so advice against using it to compare changes between countries, or between regions with different characteristics (e.g. rural versus urban areas) - please see Google's documentation for [more](https://www.blog.google/technology/health/covid-19-community-mobility-reports) [details](https://www.gstatic.com/covid19/mobility/2020-03-29_GB_Mobility_Report_en.pdf). 
+The insights are drawn from changes in visits and lengths of stay for different types of locations indexed against median levels, for the same day of the week, over the period 3rd January - 6th February 2020 (for the original data). Google uses aggregated, anonymized sets of data from users who have turned on the Location History setting (off by default). Google caution that the location accuracy and the understanding of categorized places will vary between regions and so advice against using it to compare changes between countries, or between regions with different characteristics (e.g. rural versus urban areas) - please see Google's documentation for [more](https://www.blog.google/technology/health/covid-19-community-mobility-reports) [details](https://www.gstatic.com/covid19/mobility/2020-03-29_GB_Mobility_Report_en.pdf). 
 
 <p align="center">
     <img src="imgs/cht-uk-trends.png" alt="trend-chart">
 </p>
 
-_**Figure 1**: UK trends chart rom [Google Community Mobility Reports](https://www.google.com/covid19/mobility/) published on the 03/04/2020._
+_**Figure 1**: UK trends chart from [Google Community Mobility Reports](https://www.google.com/covid19/mobility/) published on the 03/04/2020._
 
 Data and methodology cannot be QA’d directly by the Campus and is provided on an ‘as-is’ basis. 
 
