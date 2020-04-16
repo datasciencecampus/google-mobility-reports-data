@@ -14,6 +14,11 @@ This repository contains data extracted from [Google Community Mobility Reports]
 
 The latest data is available in Microsoft Office .xlsx format [here](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/google-mobility-profiles.xlsx?raw=true), which includes the entire data extracted from the UK report, as well as other international reports. Other datasets include:
 
+### COMBINED TIME SERIES (covers the period 16/02 - 05/04)
+The data from both sets of reports. For the time period covered by both sets of reports the data from the latest reports is included.
+- [International country-level trends for G20 countries (excl. China, Russia, EU) and Sweden; CSV file](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/csvs/international_national_trends_G20_2020-02-16-2020-04-05.csv) 
+- [International regional trends for G20 countries (excl. China, Russia, EU) and Sweden; CSV file](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/csvs/international_local_area_trends_G20_2020-02-16-2020-04-05.csv) 
+
 ### LATEST DATA 10/04/2020 (covers the period 23/02 - 05/04)
 - [International country-level trends for G20 countries (excl. China, Russia, EU) and Sweden; CSV file](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/csvs/international_national_trends_G20_20200410.csv) 
 - [International regional trends for G20 countries (excl. China, Russia, EU) and Sweden; CSV file](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/csvs/international_local_area_trends_G20_20200410.csv) 
