@@ -2,7 +2,7 @@
 
 ## Update
 
-**17/04/2020**: This repository now contains data from the most recent reports, published on the 16th April 2020.
+**17/04/2020**: Google now make this data available in [csv format](https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv) format, please source the data from there and note the additional [documentation](https://www.google.com/covid19/mobility/data_documentation.html). There will be small differences between the data we have extracted up until now and that published, usually that is around +/- 1% due to rounding.  
 
 ## Introduction
 
