@@ -1,6 +1,7 @@
 # google-mobility-reports-data
 
 ## Update
+**07/05/2020** Revised lookup tables and boundaries file for have been provided in [the geography](https://github.com/datasciencecampus/google-mobility-reports-data/tree/master/geography) folder to reflect the changes made in the published Google Mobility data in the separation of Nottingham and Nottinghamshire. 
 
 **17/04/2020**: Google now make this data available in [csv format](https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv) format, please source the data from there and note the additional [documentation](https://www.google.com/covid19/mobility/data_documentation.html). There will be small differences between the data we have extracted up until now and that published, usually that is around +/- 1% due to rounding.  
 
@@ -53,11 +54,11 @@ The Data Science Campus has created a [python tool (https://github.com/datascien
 This repository contains the [CSV files for all G20 countries for national and regional graphs](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/csvs/).
 
 ## Boundary data for the UK
-The set of boundaries provided in the [geopackage](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/geography/Google_Places_UK_Boundaries_BGC.gpkg) is draft, and has been created by ONS in order to promote information sharing and analysis of the effect of COVID19.
+The set of boundaries provided in the [geopackage](https://github.com/datasciencecampus/google-mobility-reports-data/blob/master/geography/Google_Places_UK_Boundaries_BGC_200417.gpkg) is draft, and has been created by ONS in order to promote information sharing and analysis of the effect of COVID19.
 
 The boundaries have been tailored specifically to present ‘Community Mobility’ data (first published by Google on 3 April 2020) recast to administrative boundaries. 
   
-The data published by Google covers all of the UK based on the normal Government Statistical  Service (GSS) assignment to 2019 administrative areas - with 3 exceptions. The Unitary Authorities of Bournemouth, Christchurch and Poole; Nottingham; and Telford and Wrekin are missing. In building the boundaries provided here we have assumed that Google have included data for these missing areas within Dorset, Nottinghamshire and Shropshire. Although they do not reflect the current administrative geography we have made use of Ceremonial County versions of Dorset, Nottinghamshire and Shropshire to ensure full geographic coverage of the UK. These boundaries do not reflect current administrative boundaries so care should be taken in how they are used and they should only be used to understand the results published by Google. Further versions of these boundaries may be made available if we are able confirm more details but they are provided here in the hope that they will be helpful to others. 
+The data published by Google covers all of the UK based on the normal Government Statistical  Service (GSS) assignment to 2019 administrative areas - with 3 exceptions. The Unitary Authorities of Bournemouth, Christchurch and Poole; and Telford and Wrekin are missing. In building the boundaries provided here we have assumed that Google have included data for these missing areas within Dorset and Shropshire. Although they do not reflect the current administrative geography we have made use of Ceremonial County versions of Dorset and Shropshire to ensure full geographic coverage of the UK. These boundaries do not reflect current administrative boundaries so care should be taken in how they are used and they should only be used to understand the results published by Google. Further versions of these boundaries may be made available if we are able confirm more details but they are provided here in the hope that they will be helpful to others. 
 
 
 ## Mid-year population estimates for the UK
