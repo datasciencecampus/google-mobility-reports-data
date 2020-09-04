@@ -16,7 +16,7 @@ Further notes:
 
 * The formatting of the names in the Google mobility data is not consistent with standard LA names; this is why the *sub_region_2* column differs from the *la_name* column in places.
 
-* Dorset is both a *sub_region_1* where the data covers the whole county, and also split into 2 LAs at the *sub_region_2*, one of which is also called "Dorset".
+* Dorset is both a *sub_region_1*, where we believe the data covers the ceremonial  county, and also split into 2 LAs at the *sub_region_2*, one of which is also called "Dorset" which we believe to be the current LA.
 
 * The Isles of Scilly is an LA that's not in the Google mobility data so is not included in the shapefile.
 
