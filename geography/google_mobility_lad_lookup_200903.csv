@@ -1,0 +1,419 @@
+country_region_code,sub_region_1,sub_region_2,la_name,lad19cd,flag_2018
+GB,Hartlepool,NA,Hartlepool,E06000001,FALSE
+GB,Middlesbrough,NA,Middlesbrough,E06000002,FALSE
+GB,Redcar and Cleveland,NA,Redcar and Cleveland,E06000003,FALSE
+GB,Stockton-on-Tees,NA,Stockton-on-Tees,E06000004,FALSE
+GB,Darlington,NA,Darlington,E06000005,FALSE
+GB,Borough of Halton,NA,Halton,E06000006,FALSE
+GB,Warrington,NA,Warrington,E06000007,FALSE
+GB,Blackburn with Darwen,NA,Blackburn with Darwen,E06000008,FALSE
+GB,Blackpool,NA,Blackpool,E06000009,FALSE
+GB,Kingston upon Hull,NA,"Kingston upon Hull, City of",E06000010,FALSE
+GB,East Riding of Yorkshire,NA,East Riding of Yorkshire,E06000011,FALSE
+GB,North East Lincolnshire,NA,North East Lincolnshire,E06000012,FALSE
+GB,North Lincolnshire,NA,North Lincolnshire,E06000013,FALSE
+GB,York,NA,York,E06000014,FALSE
+GB,Derby,NA,Derby,E06000015,FALSE
+GB,Leicester,NA,Leicester,E06000016,FALSE
+GB,Rutland,NA,Rutland,E06000017,FALSE
+GB,Nottingham,NA,Nottingham,E06000018,FALSE
+GB,Herefordshire,NA,"Herefordshire, County of",E06000019,FALSE
+GB,Shropshire,Telford and Wrekin,Telford and Wrekin,E06000020,FALSE
+GB,Stoke-on-Trent,NA,Stoke-on-Trent,E06000021,FALSE
+GB,Bath and North East Somerset,NA,Bath and North East Somerset,E06000022,FALSE
+GB,Bristol City,NA,"Bristol, City of",E06000023,FALSE
+GB,North Somerset,NA,North Somerset,E06000024,FALSE
+GB,South Gloucestershire,NA,South Gloucestershire,E06000025,FALSE
+GB,Plymouth,NA,Plymouth,E06000026,FALSE
+GB,Torbay,NA,Torbay,E06000027,FALSE
+GB,Swindon,NA,Swindon,E06000030,FALSE
+GB,Peterborough,NA,Peterborough,E06000031,FALSE
+GB,Luton,NA,Luton,E06000032,FALSE
+GB,Southend-on-Sea,NA,Southend-on-Sea,E06000033,FALSE
+GB,Thurrock,NA,Thurrock,E06000034,FALSE
+GB,Medway,NA,Medway,E06000035,FALSE
+GB,Bracknell Forest,NA,Bracknell Forest,E06000036,FALSE
+GB,West Berkshire,NA,West Berkshire,E06000037,FALSE
+GB,Reading,NA,Reading,E06000038,FALSE
+GB,Slough,NA,Slough,E06000039,FALSE
+GB,Windsor and Maidenhead,NA,Windsor and Maidenhead,E06000040,FALSE
+GB,Wokingham,NA,Wokingham,E06000041,FALSE
+GB,Milton Keynes,NA,Milton Keynes,E06000042,FALSE
+GB,Brighton and Hove,NA,Brighton and Hove,E06000043,FALSE
+GB,Portsmouth,NA,Portsmouth,E06000044,FALSE
+GB,Southampton,NA,Southampton,E06000045,FALSE
+GB,Isle of Wight,NA,Isle of Wight,E06000046,FALSE
+GB,County Durham,NA,County Durham,E06000047,FALSE
+GB,Cheshire East,NA,Cheshire East,E06000049,FALSE
+GB,Cheshire West and Chester,NA,Cheshire West and Chester,E06000050,FALSE
+GB,Shropshire,NA,Shropshire,E06000051,FALSE
+GB,Cornwall,NA,Cornwall,E06000052,FALSE
+GB,Wiltshire,NA,Wiltshire,E06000054,FALSE
+GB,Bedford,NA,Bedford,E06000055,FALSE
+GB,Central Bedfordshire,NA,Central Bedfordshire,E06000056,FALSE
+GB,Northumberland,NA,Northumberland,E06000057,FALSE
+GB,Dorset,"Bournemouth, Christchurch and Poole","Bournemouth, Christchurch and Poole",E06000058,FALSE
+GB,Dorset,Dorset,Dorset,E06000059,FALSE
+GB,Buckinghamshire,Aylesbury Vale,Aylesbury Vale,E07000004,FALSE
+GB,Buckinghamshire,Chiltern District,Chiltern,E07000005,FALSE
+GB,Buckinghamshire,South Bucks District,South Bucks,E07000006,FALSE
+GB,Buckinghamshire,Wycombe District,Wycombe,E07000007,FALSE
+GB,Cambridgeshire,Cambridge,Cambridge,E07000008,FALSE
+GB,Cambridgeshire,East Cambridgeshire District,East Cambridgeshire,E07000009,FALSE
+GB,Cambridgeshire,Fenland District,Fenland,E07000010,FALSE
+GB,Cambridgeshire,Huntingdonshire District,Huntingdonshire,E07000011,FALSE
+GB,Cambridgeshire,South Cambridgeshire District,South Cambridgeshire,E07000012,FALSE
+GB,Cumbria,Allerdale District,Allerdale,E07000026,FALSE
+GB,Cumbria,Barrow-in-Furness District,Barrow-in-Furness,E07000027,FALSE
+GB,Cumbria,City of Carlisle,Carlisle,E07000028,FALSE
+GB,Cumbria,Copeland District,Copeland,E07000029,FALSE
+GB,Cumbria,Eden District,Eden,E07000030,FALSE
+GB,Cumbria,South Lakeland District,South Lakeland,E07000031,FALSE
+GB,Derbyshire,Amber Valley,Amber Valley,E07000032,FALSE
+GB,Derbyshire,Bolsover District,Bolsover,E07000033,FALSE
+GB,Derbyshire,Chesterfield District,Chesterfield,E07000034,FALSE
+GB,Derbyshire,Derbyshire Dales District,Derbyshire Dales,E07000035,FALSE
+GB,Derbyshire,Erewash District,Erewash,E07000036,FALSE
+GB,Derbyshire,High Peak District,High Peak,E07000037,FALSE
+GB,Derbyshire,North East Derbyshire District,North East Derbyshire,E07000038,FALSE
+GB,Derbyshire,South Derbyshire District,South Derbyshire,E07000039,FALSE
+GB,Devon,East Devon District,East Devon,E07000040,FALSE
+GB,Devon,Exeter,Exeter,E07000041,FALSE
+GB,Devon,Mid Devon District,Mid Devon,E07000042,FALSE
+GB,Devon,North Devon District,North Devon,E07000043,FALSE
+GB,Devon,South Hams District,South Hams,E07000044,FALSE
+GB,Devon,Teignbridge,Teignbridge,E07000045,FALSE
+GB,Devon,Torridge District,Torridge,E07000046,FALSE
+GB,Devon,West Devon District,West Devon,E07000047,FALSE
+GB,East Sussex,Eastbourne,Eastbourne,E07000061,FALSE
+GB,East Sussex,Hastings District,Hastings,E07000062,FALSE
+GB,East Sussex,Lewes District,Lewes,E07000063,FALSE
+GB,East Sussex,Rother District,Rother,E07000064,FALSE
+GB,East Sussex,Wealden District,Wealden,E07000065,FALSE
+GB,Essex,Basildon District,Basildon,E07000066,FALSE
+GB,Essex,Braintree District,Braintree,E07000067,FALSE
+GB,Essex,Brentwood District,Brentwood,E07000068,FALSE
+GB,Essex,Castle Point District,Castle Point,E07000069,FALSE
+GB,Essex,Chelmsford,Chelmsford,E07000070,FALSE
+GB,Essex,Borough of Colchester,Colchester,E07000071,FALSE
+GB,Essex,Epping Forest District,Epping Forest,E07000072,FALSE
+GB,Essex,Harlow District,Harlow,E07000073,FALSE
+GB,Essex,Maldon District,Maldon,E07000074,FALSE
+GB,Essex,Rochford District,Rochford,E07000075,FALSE
+GB,Essex,Tendring District,Tendring,E07000076,FALSE
+GB,Essex,Uttlesford,Uttlesford,E07000077,FALSE
+GB,Gloucestershire,Cheltenham,Cheltenham,E07000078,FALSE
+GB,Gloucestershire,Cotswold District,Cotswold,E07000079,FALSE
+GB,Gloucestershire,Forest of Dean District,Forest of Dean,E07000080,FALSE
+GB,Gloucestershire,Gloucester District,Gloucester,E07000081,FALSE
+GB,Gloucestershire,Stroud District,Stroud,E07000082,FALSE
+GB,Gloucestershire,Tewkesbury Borough,Tewkesbury,E07000083,FALSE
+GB,Hampshire,Basingstoke and Deane District,Basingstoke and Deane,E07000084,FALSE
+GB,Hampshire,East Hampshire,East Hampshire,E07000085,FALSE
+GB,Hampshire,Eastleigh District,Eastleigh,E07000086,FALSE
+GB,Hampshire,Fareham District,Fareham,E07000087,FALSE
+GB,Hampshire,Gosport,Gosport,E07000088,FALSE
+GB,Hampshire,Hart District,Hart,E07000089,FALSE
+GB,Hampshire,Havant,Havant,E07000090,FALSE
+GB,Hampshire,New Forest District,New Forest,E07000091,FALSE
+GB,Hampshire,Rushmoor District,Rushmoor,E07000092,FALSE
+GB,Hampshire,Test Valley District,Test Valley,E07000093,FALSE
+GB,Hampshire,City of Winchester,Winchester,E07000094,FALSE
+GB,Hertfordshire,Broxbourne District,Broxbourne,E07000095,FALSE
+GB,Hertfordshire,Dacorum District,Dacorum,E07000096,FALSE
+GB,Hertfordshire,Hertsmere District,Hertsmere,E07000098,FALSE
+GB,Hertfordshire,North Hertfordshire District,North Hertfordshire,E07000099,FALSE
+GB,Hertfordshire,Three Rivers District,Three Rivers,E07000102,FALSE
+GB,Hertfordshire,Watford District,Watford,E07000103,FALSE
+GB,Kent,Ashford District,Ashford,E07000105,FALSE
+GB,Kent,City of Canterbury,Canterbury,E07000106,FALSE
+GB,Kent,Dartford District,Dartford,E07000107,FALSE
+GB,Kent,Dover District,Dover,E07000108,FALSE
+GB,Kent,Gravesham District,Gravesham,E07000109,FALSE
+GB,Kent,Maidstone District,Maidstone,E07000110,FALSE
+GB,Kent,Sevenoaks District,Sevenoaks,E07000111,FALSE
+GB,Kent,Folkestone & Hythe District,Folkestone and Hythe,E07000112,FALSE
+GB,Kent,Borough of Swale,Swale,E07000113,FALSE
+GB,Kent,Thanet District,Thanet,E07000114,FALSE
+GB,Kent,Tonbridge and Malling District,Tonbridge and Malling,E07000115,FALSE
+GB,Kent,Tunbridge Wells District,Tunbridge Wells,E07000116,FALSE
+GB,Lancashire,Borough of Burnley,Burnley,E07000117,FALSE
+GB,Lancashire,Chorley District,Chorley,E07000118,FALSE
+GB,Lancashire,Borough of Fylde,Fylde,E07000119,FALSE
+GB,Lancashire,Hyndburn,Hyndburn,E07000120,FALSE
+GB,Lancashire,Lancaster District,Lancaster,E07000121,FALSE
+GB,Lancashire,Pendle District,Pendle,E07000122,FALSE
+GB,Lancashire,City of Preston,Preston,E07000123,FALSE
+GB,Lancashire,Ribble Valley District,Ribble Valley,E07000124,FALSE
+GB,Lancashire,Rossendale,Rossendale,E07000125,FALSE
+GB,Lancashire,South Ribble District,South Ribble,E07000126,FALSE
+GB,Lancashire,West Lancashire District,West Lancashire,E07000127,FALSE
+GB,Lancashire,Wyre District,Wyre,E07000128,FALSE
+GB,Leicestershire,Blaby District,Blaby,E07000129,FALSE
+GB,Leicestershire,Charnwood,Charnwood,E07000130,FALSE
+GB,Leicestershire,Harborough District,Harborough,E07000131,FALSE
+GB,Leicestershire,Hinckley and Bosworth District,Hinckley and Bosworth,E07000132,FALSE
+GB,Leicestershire,Melton District,Melton,E07000133,FALSE
+GB,Leicestershire,North West Leicestershire District,North West Leicestershire,E07000134,FALSE
+GB,Leicestershire,Oadby and Wigston District,Oadby and Wigston,E07000135,FALSE
+GB,Lincolnshire,Boston District,Boston,E07000136,FALSE
+GB,Lincolnshire,East Lindsey District,East Lindsey,E07000137,FALSE
+GB,Lincolnshire,Lincoln District,Lincoln,E07000138,FALSE
+GB,Lincolnshire,North Kesteven District,North Kesteven,E07000139,FALSE
+GB,Lincolnshire,South Holland District,South Holland,E07000140,FALSE
+GB,Lincolnshire,South Kesteven District,South Kesteven,E07000141,FALSE
+GB,Lincolnshire,West Lindsey District,West Lindsey,E07000142,FALSE
+GB,Norfolk,Breckland District,Breckland,E07000143,FALSE
+GB,Norfolk,Broadland District,Broadland,E07000144,FALSE
+GB,Norfolk,Great Yarmouth District,Great Yarmouth,E07000145,FALSE
+GB,Norfolk,King's Lynn and West Norfolk District,King's Lynn and West Norfolk,E07000146,FALSE
+GB,Norfolk,North Norfolk District,North Norfolk,E07000147,FALSE
+GB,Norfolk,Norwich,Norwich,E07000148,FALSE
+GB,Norfolk,South Norfolk District,South Norfolk,E07000149,FALSE
+GB,Northamptonshire,Corby District,Corby,E07000150,FALSE
+GB,Northamptonshire,Daventry District,Daventry,E07000151,FALSE
+GB,Northamptonshire,East Northamptonshire,East Northamptonshire,E07000152,FALSE
+GB,Northamptonshire,Borough of Kettering,Kettering,E07000153,FALSE
+GB,Northamptonshire,Northampton District,Northampton,E07000154,FALSE
+GB,Northamptonshire,South Northamptonshire District,South Northamptonshire,E07000155,FALSE
+GB,Northamptonshire,Borough of Wellingborough,Wellingborough,E07000156,FALSE
+GB,North Yorkshire,Craven District,Craven,E07000163,FALSE
+GB,North Yorkshire,Hambleton District,Hambleton,E07000164,FALSE
+GB,North Yorkshire,Borough of Harrogate,Harrogate,E07000165,FALSE
+GB,North Yorkshire,Richmondshire District,Richmondshire,E07000166,FALSE
+GB,North Yorkshire,Ryedale District,Ryedale,E07000167,FALSE
+GB,North Yorkshire,Scarborough District,Scarborough,E07000168,FALSE
+GB,North Yorkshire,Selby,Selby,E07000169,FALSE
+GB,Nottinghamshire,Ashfield District,Ashfield,E07000170,FALSE
+GB,Nottinghamshire,Bassetlaw District,Bassetlaw,E07000171,FALSE
+GB,Nottinghamshire,Broxtowe District,Broxtowe,E07000172,FALSE
+GB,Nottinghamshire,Gedling District,Gedling,E07000173,FALSE
+GB,Nottinghamshire,Mansfield District,Mansfield,E07000174,FALSE
+GB,Nottinghamshire,Newark and Sherwood District,Newark and Sherwood,E07000175,FALSE
+GB,Nottinghamshire,Rushcliffe District,Rushcliffe,E07000176,FALSE
+GB,Oxfordshire,Cherwell District,Cherwell,E07000177,FALSE
+GB,Oxfordshire,Oxford,Oxford,E07000178,FALSE
+GB,Oxfordshire,South Oxfordshire District,South Oxfordshire,E07000179,FALSE
+GB,Oxfordshire,Vale of White Horse District,Vale of White Horse,E07000180,FALSE
+GB,Oxfordshire,West Oxfordshire District,West Oxfordshire,E07000181,FALSE
+GB,Somerset,Mendip District,Mendip,E07000187,FALSE
+GB,Somerset,Sedgemoor,Sedgemoor,E07000188,FALSE
+GB,Somerset,South Somerset District,South Somerset,E07000189,FALSE
+GB,Somerset,Taunton Deane,Taunton Deane,E07000190,TRUE
+GB,Somerset,West Somerset District,West Somerset,E07000191,TRUE
+GB,Staffordshire,Cannock Chase District,Cannock Chase,E07000192,FALSE
+GB,Staffordshire,East Staffordshire District,East Staffordshire,E07000193,FALSE
+GB,Staffordshire,Lichfield District,Lichfield,E07000194,FALSE
+GB,Staffordshire,Newcastle-under-Lyme District,Newcastle-under-Lyme,E07000195,FALSE
+GB,Staffordshire,South Staffordshire District,South Staffordshire,E07000196,FALSE
+GB,Staffordshire,Stafford District,Stafford,E07000197,FALSE
+GB,Staffordshire,Staffordshire Moorlands District,Staffordshire Moorlands,E07000198,FALSE
+GB,Staffordshire,Tamworth District,Tamworth,E07000199,FALSE
+GB,Suffolk,Babergh District,Babergh,E07000200,FALSE
+GB,Suffolk,Ipswich,Ipswich,E07000202,FALSE
+GB,Suffolk,Mid Suffolk District,Mid Suffolk,E07000203,FALSE
+GB,Suffolk,Suffolk Coastal District,Suffolk Coastal,E07000205,TRUE
+GB,Suffolk,Waveney District,Waveney,E07000206,TRUE
+GB,Surrey,Elmbridge,Elmbridge,E07000207,FALSE
+GB,Surrey,Epsom and Ewell District,Epsom and Ewell,E07000208,FALSE
+GB,Surrey,Borough of Guildford,Guildford,E07000209,FALSE
+GB,Surrey,Mole Valley District,Mole Valley,E07000210,FALSE
+GB,Surrey,Reigate and Banstead District,Reigate and Banstead,E07000211,FALSE
+GB,Surrey,Runnymede District,Runnymede,E07000212,FALSE
+GB,Surrey,Spelthorne District,Spelthorne,E07000213,FALSE
+GB,Surrey,Surrey Heath District,Surrey Heath,E07000214,FALSE
+GB,Surrey,Tandridge District,Tandridge,E07000215,FALSE
+GB,Surrey,Borough of Waverley,Waverley,E07000216,FALSE
+GB,Surrey,Borough of Woking,Woking,E07000217,FALSE
+GB,Warwickshire,North Warwickshire District,North Warwickshire,E07000218,FALSE
+GB,Warwickshire,Nuneaton and Bedworth,Nuneaton and Bedworth,E07000219,FALSE
+GB,Warwickshire,Rugby District,Rugby,E07000220,FALSE
+GB,Warwickshire,Stratford-on-Avon District,Stratford-on-Avon,E07000221,FALSE
+GB,Warwickshire,Warwick,Warwick,E07000222,FALSE
+GB,West Sussex,Adur District,Adur,E07000223,FALSE
+GB,West Sussex,Arun District,Arun,E07000224,FALSE
+GB,West Sussex,Chichester District,Chichester,E07000225,FALSE
+GB,West Sussex,Crawley,Crawley,E07000226,FALSE
+GB,West Sussex,Horsham District,Horsham,E07000227,FALSE
+GB,West Sussex,Mid Sussex District,Mid Sussex,E07000228,FALSE
+GB,West Sussex,Worthing,Worthing,E07000229,FALSE
+GB,Worcestershire,Bromsgrove District,Bromsgrove,E07000234,FALSE
+GB,Worcestershire,Malvern Hills District,Malvern Hills,E07000235,FALSE
+GB,Worcestershire,Redditch District,Redditch,E07000236,FALSE
+GB,Worcestershire,Worcester District,Worcester,E07000237,FALSE
+GB,Worcestershire,Wychavon District,Wychavon,E07000238,FALSE
+GB,Worcestershire,Wyre Forest District,Wyre Forest,E07000239,FALSE
+GB,Hertfordshire,Saint Albans District,St Albans,E07000240,FALSE
+GB,Hertfordshire,Welwyn Hatfield,Welwyn Hatfield,E07000241,FALSE
+GB,Hertfordshire,East Hertfordshire District,East Hertfordshire,E07000242,FALSE
+GB,Hertfordshire,Stevenage District,Stevenage,E07000243,FALSE
+GB,Suffolk,West Suffolk District,West Suffolk,E07000245,FALSE
+GB,Greater Manchester,Bolton District,Bolton,E08000001,FALSE
+GB,Greater Manchester,Bury District,Bury,E08000002,FALSE
+GB,Greater Manchester,Manchester,Manchester,E08000003,FALSE
+GB,Greater Manchester,Oldham District,Oldham,E08000004,FALSE
+GB,Greater Manchester,Rochdale District,Rochdale,E08000005,FALSE
+GB,Greater Manchester,Salford District,Salford,E08000006,FALSE
+GB,Greater Manchester,Metropolitan Borough of Stockport,Stockport,E08000007,FALSE
+GB,Greater Manchester,Borough of Tameside,Tameside,E08000008,FALSE
+GB,Greater Manchester,Trafford,Trafford,E08000009,FALSE
+GB,Greater Manchester,Metropolitan Borough of Wigan,Wigan,E08000010,FALSE
+GB,Merseyside,Metropolitan Borough of Knowsley,Knowsley,E08000011,FALSE
+GB,Merseyside,Liverpool,Liverpool,E08000012,FALSE
+GB,Merseyside,Saint Helens District,St. Helens,E08000013,FALSE
+GB,Merseyside,Metropolitan Borough of Sefton,Sefton,E08000014,FALSE
+GB,Merseyside,Wirral,Wirral,E08000015,FALSE
+GB,South Yorkshire,Borough of Barnsley,Barnsley,E08000016,FALSE
+GB,South Yorkshire,Doncaster District,Doncaster,E08000017,FALSE
+GB,South Yorkshire,Rotherham District,Rotherham,E08000018,FALSE
+GB,South Yorkshire,Sheffield District,Sheffield,E08000019,FALSE
+GB,Tyne and Wear,Newcastle upon Tyne District,Newcastle upon Tyne,E08000021,FALSE
+GB,Tyne and Wear,North Tyneside District,North Tyneside,E08000022,FALSE
+GB,Tyne and Wear,South Tyneside,South Tyneside,E08000023,FALSE
+GB,Tyne and Wear,Sunderland District,Sunderland,E08000024,FALSE
+GB,West Midlands,Birmingham District,Birmingham,E08000025,FALSE
+GB,West Midlands,Coventry,Coventry,E08000026,FALSE
+GB,West Midlands,Dudley District,Dudley,E08000027,FALSE
+GB,West Midlands,Sandwell District,Sandwell,E08000028,FALSE
+GB,West Midlands,Metropolitan Borough of Solihull,Solihull,E08000029,FALSE
+GB,West Midlands,Walsall District,Walsall,E08000030,FALSE
+GB,West Midlands,City of Wolverhampton District,Wolverhampton,E08000031,FALSE
+GB,West Yorkshire,Bradford District,Bradford,E08000032,FALSE
+GB,West Yorkshire,Calderdale,Calderdale,E08000033,FALSE
+GB,West Yorkshire,Metropolitan Borough of Kirklees,Kirklees,E08000034,FALSE
+GB,West Yorkshire,Leeds District,Leeds,E08000035,FALSE
+GB,West Yorkshire,Wakefield District,Wakefield,E08000036,FALSE
+GB,Tyne and Wear,Metropolitan Borough of Gateshead,Gateshead,E08000037,FALSE
+GB,Greater London,City of London,City of London,E09000001,FALSE
+GB,Greater London,London Borough of Barking and Dagenham,Barking and Dagenham,E09000002,FALSE
+GB,Greater London,London Borough of Barnet,Barnet,E09000003,FALSE
+GB,Greater London,London Borough of Bexley,Bexley,E09000004,FALSE
+GB,Greater London,London Borough of Brent,Brent,E09000005,FALSE
+GB,Greater London,London Borough of Bromley,Bromley,E09000006,FALSE
+GB,Greater London,London Borough of Camden,Camden,E09000007,FALSE
+GB,Greater London,London Borough of Croydon,Croydon,E09000008,FALSE
+GB,Greater London,London Borough of Ealing,Ealing,E09000009,FALSE
+GB,Greater London,London Borough of Enfield,Enfield,E09000010,FALSE
+GB,Greater London,Royal Borough of Greenwich,Greenwich,E09000011,FALSE
+GB,Greater London,London Borough of Hackney,Hackney,E09000012,FALSE
+GB,Greater London,London Borough of Hammersmith and Fulham,Hammersmith and Fulham,E09000013,FALSE
+GB,Greater London,London Borough of Haringey,Haringey,E09000014,FALSE
+GB,Greater London,London Borough of Harrow,Harrow,E09000015,FALSE
+GB,Greater London,London Borough of Havering,Havering,E09000016,FALSE
+GB,Greater London,London Borough of Hillingdon,Hillingdon,E09000017,FALSE
+GB,Greater London,London Borough of Hounslow,Hounslow,E09000018,FALSE
+GB,Greater London,London Borough of Islington,Islington,E09000019,FALSE
+GB,Greater London,Royal Borough of Kensington and Chelsea,Kensington and Chelsea,E09000020,FALSE
+GB,Greater London,Royal Borough of Kingston upon Thames,Kingston upon Thames,E09000021,FALSE
+GB,Greater London,London Borough of Lambeth,Lambeth,E09000022,FALSE
+GB,Greater London,London Borough of Lewisham,Lewisham,E09000023,FALSE
+GB,Greater London,London Borough of Merton,Merton,E09000024,FALSE
+GB,Greater London,London Borough of Newham,Newham,E09000025,FALSE
+GB,Greater London,London Borough of Redbridge,Redbridge,E09000026,FALSE
+GB,Greater London,London Borough of Richmond upon Thames,Richmond upon Thames,E09000027,FALSE
+GB,Greater London,London Borough of Southwark,Southwark,E09000028,FALSE
+GB,Greater London,London Borough of Sutton,Sutton,E09000029,FALSE
+GB,Greater London,London Borough of Tower Hamlets,Tower Hamlets,E09000030,FALSE
+GB,Greater London,London Borough of Waltham Forest,Waltham Forest,E09000031,FALSE
+GB,Greater London,London Borough of Wandsworth,Wandsworth,E09000032,FALSE
+GB,Greater London,City of Westminster,Westminster,E09000033,FALSE
+GB,Antrim and Newtownabbey,NA,Antrim and Newtownabbey,N09000001,FALSE
+GB,"Armagh City, Banbridge and Craigavon",NA,"Armagh City, Banbridge and Craigavon",N09000002,FALSE
+GB,Belfast,NA,Belfast,N09000003,FALSE
+GB,Causeway Coast and Glens,NA,Causeway Coast and Glens,N09000004,FALSE
+GB,Derry and Strabane,NA,Derry City and Strabane,N09000005,FALSE
+GB,Fermanagh and Omagh,NA,Fermanagh and Omagh,N09000006,FALSE
+GB,Lisburn and Castlereagh,NA,Lisburn and Castlereagh,N09000007,FALSE
+GB,Mid and East Antrim,NA,Mid and East Antrim,N09000008,FALSE
+GB,Mid Ulster,NA,Mid Ulster,N09000009,FALSE
+GB,"Newry, Mourne and Down",NA,"Newry, Mourne and Down",N09000010,FALSE
+GB,Ards and North Down,NA,Ards and North Down,N09000011,FALSE
+GB,Clackmannanshire,NA,Clackmannanshire,S12000005,FALSE
+GB,Dumfries and Galloway,NA,Dumfries and Galloway,S12000006,FALSE
+GB,East Ayrshire Council,NA,East Ayrshire,S12000008,FALSE
+GB,East Lothian Council,NA,East Lothian,S12000010,FALSE
+GB,East Renfrewshire Council,NA,East Renfrewshire,S12000011,FALSE
+GB,Na h-Eileanan an Iar,NA,Na h-Eileanan Siar,S12000013,FALSE
+GB,Falkirk,NA,Falkirk,S12000014,FALSE
+GB,Highland Council,NA,Highland,S12000017,FALSE
+GB,Inverclyde,NA,Inverclyde,S12000018,FALSE
+GB,Midlothian,NA,Midlothian,S12000019,FALSE
+GB,Moray,NA,Moray,S12000020,FALSE
+GB,North Ayrshire Council,NA,North Ayrshire,S12000021,FALSE
+GB,Orkney,NA,Orkney Islands,S12000023,FALSE
+GB,Scottish Borders,NA,Scottish Borders,S12000026,FALSE
+GB,Shetland Islands,NA,Shetland Islands,S12000027,FALSE
+GB,South Ayrshire Council,NA,South Ayrshire,S12000028,FALSE
+GB,South Lanarkshire,NA,South Lanarkshire,S12000029,FALSE
+GB,Stirling,NA,Stirling,S12000030,FALSE
+GB,Aberdeen City,NA,Aberdeen City,S12000033,FALSE
+GB,Aberdeenshire,NA,Aberdeenshire,S12000034,FALSE
+GB,Argyll and Bute Council,NA,Argyll and Bute,S12000035,FALSE
+GB,Edinburgh,NA,City of Edinburgh,S12000036,FALSE
+GB,Renfrewshire,NA,Renfrewshire,S12000038,FALSE
+GB,West Dunbartonshire Council,NA,West Dunbartonshire,S12000039,FALSE
+GB,West Lothian,NA,West Lothian,S12000040,FALSE
+GB,Angus Council,NA,Angus,S12000041,FALSE
+GB,Dundee City Council,NA,Dundee City,S12000042,FALSE
+GB,East Dunbartonshire Council,NA,East Dunbartonshire,S12000045,FALSE
+GB,Fife,NA,Fife,S12000047,FALSE
+GB,Perth and Kinross,NA,Perth and Kinross,S12000048,FALSE
+GB,Glasgow City,NA,Glasgow City,S12000049,FALSE
+GB,North Lanarkshire,NA,North Lanarkshire,S12000050,FALSE
+GB,Isle of Anglesey,NA,Isle of Anglesey,W06000001,FALSE
+GB,Gwynedd,NA,Gwynedd,W06000002,FALSE
+GB,Conwy Principal Area,NA,Conwy,W06000003,FALSE
+GB,Denbighshire,NA,Denbighshire,W06000004,FALSE
+GB,Flintshire,NA,Flintshire,W06000005,FALSE
+GB,Wrexham Principal Area,NA,Wrexham,W06000006,FALSE
+GB,Ceredigion,NA,Ceredigion,W06000008,FALSE
+GB,Pembrokeshire,NA,Pembrokeshire,W06000009,FALSE
+GB,Carmarthenshire,NA,Carmarthenshire,W06000010,FALSE
+GB,Swansea,NA,Swansea,W06000011,FALSE
+GB,Neath Port Talbot Principle Area,NA,Neath Port Talbot,W06000012,FALSE
+GB,Bridgend County Borough,NA,Bridgend,W06000013,FALSE
+GB,Vale of Glamorgan,NA,Vale of Glamorgan,W06000014,FALSE
+GB,Cardiff,NA,Cardiff,W06000015,FALSE
+GB,Rhondda Cynon Taff,NA,Rhondda Cynon Taf,W06000016,FALSE
+GB,Caerphilly County Borough,NA,Caerphilly,W06000018,FALSE
+GB,Blaenau Gwent,NA,Blaenau Gwent,W06000019,FALSE
+GB,Torfaen Principal Area,NA,Torfaen,W06000020,FALSE
+GB,Monmouthshire,NA,Monmouthshire,W06000021,FALSE
+GB,Newport,NA,Newport,W06000022,FALSE
+GB,Powys,NA,Powys,W06000023,FALSE
+GB,Merthyr Tydfil County Borough,NA,Merthyr Tydfil,W06000024,FALSE
+GB,Buckinghamshire,NA,NA,NA,NA
+GB,Cambridgeshire,NA,NA,NA,NA
+GB,Cornwall,Penryn,NA,NA,NA
+GB,Cumbria,NA,NA,NA,NA
+GB,Derbyshire,NA,NA,NA,NA
+GB,Devon,NA,NA,NA,NA
+GB,Dorset,NA,NA,NA,NA
+GB,East Sussex,NA,NA,NA,NA
+GB,Essex,NA,NA,NA,NA
+GB,Gloucestershire,NA,NA,NA,NA
+GB,Greater London,NA,NA,NA,NA
+GB,Greater Manchester,NA,NA,NA,NA
+GB,Hampshire,NA,NA,NA,NA
+GB,Hertfordshire,NA,NA,NA,NA
+GB,Kent,NA,NA,NA,NA
+GB,Lancashire,NA,NA,NA,NA
+GB,Leicestershire,NA,NA,NA,NA
+GB,Lincolnshire,NA,NA,NA,NA
+GB,Merseyside,NA,NA,NA,NA
+GB,Norfolk,NA,NA,NA,NA
+GB,North Yorkshire,NA,NA,NA,NA
+GB,Northamptonshire,NA,NA,NA,NA
+GB,Nottinghamshire,NA,NA,NA,NA
+GB,Oxfordshire,NA,NA,NA,NA
+GB,Somerset,NA,NA,NA,NA
+GB,South Yorkshire,NA,NA,NA,NA
+GB,Staffordshire,NA,NA,NA,NA
+GB,Suffolk,NA,NA,NA,NA
+GB,Surrey,NA,NA,NA,NA
+GB,Tyne and Wear,NA,NA,NA,NA
+GB,Warwickshire,NA,NA,NA,NA
+GB,West Midlands,NA,NA,NA,NA
+GB,West Sussex,NA,NA,NA,NA
+GB,West Yorkshire,NA,NA,NA,NA
+GB,Worcestershire,NA,NA,NA,NA
