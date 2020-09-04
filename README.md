@@ -1,6 +1,8 @@
 # google-mobility-reports-data
 
 ## Update
+**04/09/2020** New lookup table and boundaries file have been added to [the geography](https://github.com/datasciencecampus/google-mobility-reports-data/tree/master/geography) folder to enable analysis to be done at the Local Authority level which has recently been added to the published Google Mobility data.
+
 **07/05/2020** Revised lookup tables and boundaries file have been provided in [the geography](https://github.com/datasciencecampus/google-mobility-reports-data/tree/master/geography) folder to reflect the changes made in the published Google Mobility data in the separation of Nottingham and Nottinghamshire. 
 
 **17/04/2020**: Google now make this data available in [csv format](https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv) format, please source the data from there and note the additional [documentation](https://www.google.com/covid19/mobility/data_documentation.html). There will be small differences between the data we have extracted up until now and that published, usually that is around +/- 1% due to rounding.  
