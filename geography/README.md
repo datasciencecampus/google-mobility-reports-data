@@ -9,7 +9,7 @@ By using a combination of the *sub_region_1* and *sub_region_2* columns the data
 
 To analyse the data at the LA level join the **google_mobility_lad_lookup_200903.csv** table to the Global_Mobility_Report.csv data on both the *sub_region_1* and *sub_region_2* columns and use the *la_name* or *lad19cd* column as the unique identifier, excluding the rows in the data which represent the coarser granularity data and don't have a *la_name*. 
 
-To map the LA level data the **google_mobility_lad_boundary_200903.shp** can be used and the mobility data joined using the *country_region_code*, *sub_region_1* and *sub_region_2* columns
+To map the LA level data the **google_mobility_lad_boundary_200903.shp** or **google_mobility_lad_boundary_200903.gpkg** can be used and the mobility data joined using the *country_region_code*, *sub_region_1* and *sub_region_2* columns
 
 Further notes:  
 * Most of the LAs in the Google mobility data are the 2019 areas, but there are a few which are from 2018 (e.g. the Google mobility data contains "West Somerset District" & "Taunton Deane", which were replaced with "Somerset West and Taunton" in 2019, and "Suffolk Coast" and "Waveney" which were replaced with "East Suffolk"). The *flag_2018* column in the google_mobility_lad_lookup_200903.csv indicates where the 2018 boundaries have been used as this may cause complications if joining the mobility data to other data at LA level.
